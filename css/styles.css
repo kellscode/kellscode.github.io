@@ -626,8 +626,7 @@ footer {
   }
   #about p {
     text-align: left;
-    font-size: 20pt;
-    line-height: 1.5;
+    font-size: 10pt;
   }
 }
 @media only screen and (max-width: 768px) {
