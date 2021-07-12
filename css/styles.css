@@ -1,10 +1,9 @@
 /*!
-    Title: Dev Portfolio Template
-    Version: 1.2.2
-    Last Change: 03/25/2020
-    Author: Ryan Fitzgerald
-    Repo: https://github.com/RyanFitzgerald/devportfolio-template
-    Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
+    Title: Personal Website
+    Version: 1.2
+    Last Change: 07/12/2021
+    Author: Kelly Lee
+    Original template: https://github.com/RyanFitzgerald/devportfolio-template
 
     Description: This file contains all the styles associated with the page
     that don't come from third party libraries. This file gets compiled using
@@ -629,8 +628,8 @@ footer {
   }
   #about p {
     text-align: left;
-    font-size: 200pt;
-    line-height: 20px;
+    font-size: 20pt;
+    line-height: 1.5;
   }
 }
 @media only screen and (max-width: 768px) {
